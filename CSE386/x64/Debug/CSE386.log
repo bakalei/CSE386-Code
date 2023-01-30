@@ -1,0 +1,20 @@
+﻿  camera.cpp
+  colorandmaterials.cpp
+  defs.cpp
+  eshape.cpp
+  exercisebasicgraphics.cpp
+  fragmentops.cpp
+  framebuffer.cpp
+  image.cpp
+  io.cpp
+  iscene.cpp
+  ishape.cpp
+  light.cpp
+  rasterization.cpp
+  raytracer.cpp
+  utilities.cpp
+C:\Users\reasorbj\Documents\cse386-spring-2023-main\CSE386\utilities.cpp(35,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  vertexops.cpp
+  vertextdata.cpp
+  Generating Code...
+  CSE386.vcxproj -> C:\Users\reasorbj\Documents\cse386-spring-2023-main\x64\Debug\CSE386.exe
